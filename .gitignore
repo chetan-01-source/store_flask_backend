@@ -1,0 +1,7 @@
+.DS_Store
+.dockerignore
+.flaskenv
+.venv
+.vscode
+*.pyc
+__pycache__
